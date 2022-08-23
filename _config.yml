@@ -27,8 +27,8 @@ twitter_username: xxx
 github_username:  ColbyZhou
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+#markdown: kramdown
+#permalink: pretty
 
 #highlighter: rouge
 #kramdown:
