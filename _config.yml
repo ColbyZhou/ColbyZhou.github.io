@@ -22,7 +22,8 @@ title: Colby Zhou Blog
 email: colbyzhou@gmail.com
 description: "Recommender System & Machine Learning Worker"
 baseurl: ""
-url: "http://colbyzhou.github.io"
+#url: "http://colbyzhou.github.io"
+url: ""
 twitter_username: xxx
 github_username:  ColbyZhou
 
