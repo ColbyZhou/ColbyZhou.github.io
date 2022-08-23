@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+comments: true
+title:  "Welcome to ColbyZhou's Blog"
+excerpt: "wel"
 date:   2022-08-23 15:35:20 +0800
 categories: jekyll update
 ---
